@@ -1,2 +1,2 @@
 <h1>Simple Login #1</h1>
-(https://i.postimg.cc/Dzd5sYrs/Screenshot-20.png)
+<img href="https://i.postimg.cc/Dzd5sYrs/Screenshot-20.png">
